@@ -1,2 +1,3 @@
 bon dia!
-(A) Benvinguda a la branca01 NomAlumne
+(A) Benvinguda a la branca01 RubenSantacatalina
+(E) Afegim imatge a branca01 RubenSantacatalina

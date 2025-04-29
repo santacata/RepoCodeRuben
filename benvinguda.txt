@@ -1,6 +1,11 @@
 bon dia!
+<<<<<<< HEAD
 (A) Benvinguda a la branca01 RubenSantacatalina
 (B) Modificació 01 Main NomAlumne
 (C) Benvinguda a la branca02 NomAlumne
 (D) Modificació 02 Main NomAlumne
 (E) Afegim imatge a branca01 RubenSantacatalina
+=======
+(C) Benvinguda a la branca02 RubenSantacatalina
+(F) Afegim imatge a branca02 RubenSantacatalina
+>>>>>>> 693eb96 (Commit imatge branca02 RubenSantacatalina)

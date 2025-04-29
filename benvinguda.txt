@@ -1,3 +1,5 @@
 bon dia!
+(A) Benvinguda a la branca01 RubenSantacatalina
 (B) Modificació 01 Main NomAlumne
 (D) Modificació 02 Main NomAlumne
+(E) Afegim imatge a branca01 RubenSantacatalina
